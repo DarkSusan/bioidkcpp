@@ -1,0 +1,2 @@
+/bin/c++ -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/maks/Uni/biocpp
+c++: error: unrecognized command-line option ‘-G’
